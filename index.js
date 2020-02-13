@@ -58,11 +58,11 @@ function cssContent(event) {
 }
 
 let nytDesc = 'This project accesses the New York Time Article Search with simple search parameters and returns relevent articles.'
-let staticDesc = 'This project is an accurate cloning of the Eleven Fifty Academy Website. It highlights my attention to detail and abilitys in HTML and CSS.'
-let hubbleDesc = 'The Hubble Search Engine queries Hubble Telescope Data.  It provides an easy to use interface for accessing brilliant images, videos and news from the Hubble Space Telescope.'
-let cssDesc = 'This is a fun CSS Creature.'
+let staticDesc = 'This project is an accurate cloning of the Eleven Fifty Academy Website. It highlights my attention to detail and ability in HTML and CSS.'
+let hubbleDesc = 'The NASA Image Search Application queries the NASA Image Repository.  It provides an easy to use interface for accessing brilliant over 140,000 images related to space exploation.'
+let cssDesc = `This is a fun CSS Creature. This was my first project. It reminds me where I started and how much I've learned.`
 
 let nytLink = 'https://rmmassie.github.io/NYT-API/'
 let staticLink = 'https://rmmassie.github.io/staticWebsite/'
-let hubbleLink = 'www.amazon.com'
-let cssLink = 'www.ebay.com'
+let hubbleLink = 'https://nasa-image-search-api.web.app/'
+let cssLink = 'https://codepen.io/rmmassie/pen/MWYRLbz'
