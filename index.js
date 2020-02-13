@@ -50,7 +50,7 @@ function staticContent(event) {
 function cssContent(event) {
     image.setAttribute('src', "./assets/cssImage.png");
     desc.textContent = cssDesc
-    link.setAttribute('href', nytLink)
+    link.setAttribute('href', cssLink)
     nyt.setAttribute('class', 'nav-link')
     hubble.setAttribute('class', 'nav-link')
     static.setAttribute('class', 'nav-link')

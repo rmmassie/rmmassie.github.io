@@ -3,8 +3,16 @@
   margin: 0px;
   padding: 0px;
   font-family: 'Nunito', sans-serif;
+  scroll-behavior: smooth;
 }
 
+title {
+  color: #14213D;
+}
+
+.rounding{
+  border-radius: 15px;
+}
 #wrapper{ 
 	width:99vw;
   height:50vh;
@@ -39,6 +47,24 @@
 
 #heading h2 {
   color: #E5E5E5;
+}
+#heading h5 {
+  color: #FCA311;
+  text-decoration: none;
+  display: flex;
+}
+
+#heading a {
+  color: #E5E5E5;
+  text-decoration: none;
+  display: flex;
+  padding-right: 1vw;
+  /* padding-right: 2vw; */
+}
+
+#heading a:hover {
+  color: rgb(255, 255, 255);
+  text-decoration: underline;
 }
 
 #portfolio {
@@ -186,15 +212,15 @@ justify-self: center;
   border-radius: 25px;
 }
 
-#aboutInfo {
+/* #aboutInfo {
   
-}
+} */
 
 .jumbotron {
   max-height: 90%;
   border-radius: 25px;
   margin: 25px;
-  padding: 35px;
+  padding: 15px;
 }
 
 #contact {
